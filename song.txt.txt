@@ -2,7 +2,6 @@
 nee maayalo padindhi
 nijamo kalooo
 telisedhela
-<<<<<<< HEAD
 
 <<<<<<< HEAD
 Ah, I lose my breath when you're walkin' in
@@ -13,5 +12,3 @@ You make my knees drop, it's like I'm in shock
 Now, I'll always be here, I won't ever run
 'Cause you took the air right out of my lungs
 >>>>>>> 6c33cffe7ac3625b65d3784dd7772ade0fd166a4
-=======
->>>>>>> parent of caf2eb4 (finish second part)
